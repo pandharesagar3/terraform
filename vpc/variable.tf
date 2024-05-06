@@ -1,5 +1,5 @@
 variable "aws_region" {
-  default = "your_aws_region"
+  default = "ap-south-1"
 }
 
 variable "availability_zone" {
